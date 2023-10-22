@@ -1,1 +1,8 @@
-# dt
+# MACHINE LEARNING AND ANALYSIS FOR ACCESS TO CLINICAL TRIALS
+
+## Overview
+Clinical trials are a crucial component of the medical and healthcare research process. They are systematic investigations involving human participants designed to evaluate the safety, efficacy, and side effects of new medical treatments, interventions, drugs, or devices. Clinical trials are instrumental in advancing medical science, improving patient care, and ensuring that new treatments are safe and effective. They are a cornerstone of evidence-based medicine and contribute to the development of innovative therapies that benefit patients and society as a whole
+### Research Problem
+Recognizing the challenges researchers and individuals face in accessing clinical trial information, we have embarked on a mission to enhance the process. Our objective is to develop an advanced machine learning model and an intuitive application that streamlines the search for clinical trials based on specific medical conditions or research interests. This initiative aims to empower researchers, students, and anyone eager to explore the world of medical research. By simply entering the name of a medical condition or research topic, users will gain quick and accurate access to a comprehensive list of relevant clinical trials, significantly simplifying the often daunting task of trial discovery. Our goal is to make medical research more accessible and efficient, ultimately contributing to advancements in healthcare and scientific knowledge.
+## Main Objective
+Building a machine learning model and web application to simplify access to clinical trials can greatly benefit researchers and those interested in medical research
