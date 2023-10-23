@@ -4,3 +4,6 @@ nltk==3.8.1
 scikit-learn==1.3.1
 plotly==5.17.0
 regex==2023.10.3
+gensim==4.3.2
+
+
