@@ -1,2 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 clean.csv filter=lfs diff=lfs merge=lfs -text
+.model filter=lfs diff=lfs merge=lfs -text
+wordvec.model filter=lfs diff=lfs merge=lfs -text
